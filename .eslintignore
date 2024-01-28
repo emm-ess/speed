@@ -1,0 +1,7 @@
+node_modules/
+coverage
+dist/
+packages/mobile-shell/platforms/
+packages/mobile-shell/plugins/
+packages/mobile-shell/www/
+packages/mobile-shell/build/
